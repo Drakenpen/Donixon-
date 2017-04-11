@@ -27,7 +27,7 @@
     ?>
 </div>
   <audio id="song" autoplay="" loop="">
-    <source src="lekkor.mp3" type="audio/mpeg">
+    <source src="<?php echo URL; ?>sounds/lekkor.mp3" type="audio/mpeg">
   </audio>
 </div>
 
